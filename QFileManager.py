@@ -77,8 +77,8 @@ class helpWindow(QMainWindow):
         message = """
                     <span style='color: #3465a4; font-size: 20pt;font-weight: bold;text-align: center;'
                     ></span></p><center><h3>QFileManager<br>1.0 Beta</h3></center>created by  
-                    <a title='Axel Schneider' href='http://goodoldsongs.jimdo.com' target='_blank'>Axel Schneider</a> with PyQt5<br><br>
-                    <span style='color: #555753; font-size: 9pt;'>©2019 Axel Schneider<br><br></strong></span></p>
+                    <a title='Sakurai07' href='http://goodoldsongs.jimdo.com' target='_blank'>Axel Schneider</a> with PyQt5<br><br>
+                    <span style='color: #555753; font-size: 9pt;'><br><br></strong></span></p>
                         """ + myMachine
         self.infobox(title, message)
 
