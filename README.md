@@ -46,8 +46,8 @@ python Qfilemanager.py
 
 > python3 QFileManager.py
 
-![screenshot](https://github.com/Sakurai07/QFilemanager/blob/master/screenshot2.png)
+![screenshot](https://github.com/Sakurai07/Pyfilem/blob/main/screenshot.png)
 
 # QFilemanagerDouble
 
-![screenshot](https://github.com/Sakurai07/QFilemanager/blob/master/QFM_double.png)
+![screenshot](https://github.com/Sakurai07/Pyfilem/blob/main/QFM_double.png)
