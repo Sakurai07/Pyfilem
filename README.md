@@ -44,7 +44,7 @@ python Qfilemanager.py
 
 ### Usage:
 
-> python3 QFileManager.py
+> python QFileManager.py
 
 ![screenshot](https://github.com/Sakurai07/Pyfilem/blob/main/screenshot.png)
 
