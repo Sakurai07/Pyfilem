@@ -1,12 +1,20 @@
 # QFilemanager
 
-made in Linux Mint 19
+made by sakurai07
 
 ### Requirements:
 
-- python 3
+- python
 - PyQt5
+- pandas
 
+### Installation:
+```
+git clone https://github.com/sakurai07/pyfilem
+cd pyfilem
+pip install -r requirements.txt
+python Qfilemanager.py
+```
 ### Features:
 - drag and drop Files to copy (SHIFT to move)
 - open Files with default app
@@ -38,8 +46,8 @@ made in Linux Mint 19
 
 > python3 QFileManager.py
 
-![screenshot](https://github.com/Axel-Erfurt/QFilemanager/blob/master/screenshot2.png)
+![screenshot](https://github.com/Sakurai07/QFilemanager/blob/master/screenshot2.png)
 
 # QFilemanagerDouble
 
-![screenshot](https://github.com/Axel-Erfurt/QFilemanager/blob/master/QFM_double.png)
+![screenshot](https://github.com/Sakurai07/QFilemanager/blob/master/QFM_double.png)
